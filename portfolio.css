@@ -5,6 +5,7 @@ font-family:sans-serif}
 
 
 
+
 .container{
 height: 1000px;
 width: 100%;
@@ -156,7 +157,7 @@ left: 0px;}
     position: absolute;
     left: 800px;
     top: 150px;
-    background-image: url(/HTL/sara2.jpeg);
+    background-image: url(sara2.jpeg);
     background-size: cover;
 
 
@@ -223,6 +224,6 @@ left: 0px;}
     background-color: transparent;
     position: absolute;
     left: 80px; 
-    background-image: url(/HTL/graphic_design.jpg);
+    background-image: url(graphic_design.jpg);
     background-size: cover;
 }
